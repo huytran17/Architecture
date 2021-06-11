@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5s4/y2EHvDjHp+Xq7AIvSTvpJi5zKuXNp4TSC5wb2M9hFYJ5Utbi7UdxPzwzdr6zBHzhoukrFNF4/KzHsC8voQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\MISA.KienTruc\\MISA.KienTruc.Infrastructure\\MISA.KienTruc.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mysqlconnector\\1.3.9\\mysqlconnector.1.3.9.nupkg.sha512"
+  ],
+  "logs": []
+}

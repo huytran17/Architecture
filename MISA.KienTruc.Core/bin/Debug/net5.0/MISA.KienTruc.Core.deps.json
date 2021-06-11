@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MISA.KienTruc.Core/1.0.0": {
+        "runtime": {
+          "MISA.KienTruc.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MISA.KienTruc.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
